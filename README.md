@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Opura AI — AI Shopping Assistant
 
 Full Stack Developer Intern assignment for **BotMakers Pvt Ltd**.
@@ -119,3 +120,6 @@ Kashish — BotMakers Full Stack Developer Intern Assignment
 ## License
 
 MIT
+=======
+# Competition_Hub
+>>>>>>> b4b8df038e61a2c371e5a86af7b2287a0ecb9098
